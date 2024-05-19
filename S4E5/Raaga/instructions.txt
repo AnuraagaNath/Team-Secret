@@ -1,0 +1,33 @@
+Welcome to the Kaggle Playgrounds S4E5: Regression with a Flood Prediction Dataset
+
+
+Overview
+Welcome to the 2024 Kaggle Playground Series! We plan to continue in the spirit of previous playgrounds, providing interesting an approachable datasets for our community to practice their machine learning skills, and anticipate a competition each month.
+
+Your Goal: The goal of this competition is to predict the probability of a region flooding based on various factors.
+
+Evaluation
+Submissions are evaluated using the R2 score.
+
+Submission File
+For each id row in the test set, you must predict the value of the target, FloodProbability. 
+
+
+Timeline
+Start Date - May 1, 2024
+Entry Deadline - Same as the Final Submission Deadline
+Team Merger Deadline - Same as the Final Submission Deadline
+Final Submission Deadline - May 31, 2024
+All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted. 
+The competition organizers reserve the right to update the contest timeline if they deem it necessary.
+
+
+Prizes
+1st Place - Choice of Kaggle merchandise
+2nd Place - Choice of Kaggle merchandise
+3rd Place - Choice of Kaggle merchandise
+Please note: In order to encourage more participation from beginners, Kaggle merchandise will only be awarded once per person in this series. If a person has previously won, we'll skip to the next team.
+
+Link: https://www.kaggle.com/competitions/playground-series-s4e5/overview
+
+**Contribution Instruction**: Create your own git branch and inside your own folder. 
